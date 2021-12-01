@@ -39,3 +39,9 @@ button {
     top: var(--topNavbarHeight);
   }
 }
+
+/* my css */
+
+.action_btn {
+  width: 20px;
+}
